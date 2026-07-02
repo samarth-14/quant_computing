@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/samarth-14/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/samarth-14/leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/samarth-14/leetcode/tree/master/0283-move-zeroes) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/samarth-14/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/samarth-14/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/samarth-14/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Breadth-First Search
 |  |
@@ -40,5 +42,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/samarth-14/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/samarth-14/leetcode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
