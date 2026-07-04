@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/samarth-14/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/samarth-14/leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/samarth-14/leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/samarth-14/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/samarth-14/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/samarth-14/leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/samarth-14/leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/samarth-14/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -82,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/samarth-14/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/samarth-14/leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
