@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/samarth-14/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/samarth-14/leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/samarth-14/leetcode/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/samarth-14/leetcode/tree/master/0485-max-consecutive-ones) |
 | [1288-remove-covered-intervals](https://github.com/samarth-14/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/samarth-14/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/samarth-14/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
