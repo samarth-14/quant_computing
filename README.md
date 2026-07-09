@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/samarth-14/leetcode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/samarth-14/leetcode/tree/master/0217-contains-duplicate) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/samarth-14/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/samarth-14/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/samarth-14/leetcode/tree/master/0013-roman-to-integer) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/samarth-14/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/samarth-14/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
@@ -132,5 +134,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/samarth-14/leetcode/tree/master/0013-roman-to-integer) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/samarth-14/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 <!---LeetCode Topics End-->
