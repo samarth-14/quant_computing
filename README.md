@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/samarth-14/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/samarth-14/leetcode/tree/master/0013-roman-to-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/samarth-14/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/samarth-14/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
