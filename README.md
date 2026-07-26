@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/samarth-14/leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/samarth-14/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/samarth-14/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0628-maximum-product-of-three-numbers](https://github.com/samarth-14/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/samarth-14/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0994-rotting-oranges](https://github.com/samarth-14/leetcode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/samarth-14/leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/samarth-14/leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/samarth-14/leetcode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/samarth-14/leetcode/tree/master/0217-contains-duplicate) |
+| [0628-maximum-product-of-three-numbers](https://github.com/samarth-14/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/samarth-14/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/samarth-14/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/samarth-14/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/samarth-14/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/samarth-14/leetcode/tree/master/0013-roman-to-integer) |
+| [0628-maximum-product-of-three-numbers](https://github.com/samarth-14/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/samarth-14/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/samarth-14/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/samarth-14/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
